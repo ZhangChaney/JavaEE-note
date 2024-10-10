@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="h"
-                 name="JavaEE"
+                 name="JavaEE笔记"
                   start-page="001-Idea配置Maven.md">
 
     <toc-element topic="001-Idea配置Maven.md"/>
