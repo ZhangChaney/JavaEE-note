@@ -10,8 +10,8 @@ permissions:
   pages: write
 
 env:
-  INSTANCE: 'Writerside/J2EE'
-  ARTIFACT: 'webHelpJ2EE2-all.zip'
+  INSTANCE: 'Writerside/h'
+  ARTIFACT: 'webHelpH2-all.zip'
   DOCKER_VERSION: '241.16003'
 
 jobs:

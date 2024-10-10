@@ -2,7 +2,7 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="J2EE"
+<instance-profile id="h"
                  name="JavaEE"
                   start-page="001-Idea配置Maven.md">
 
