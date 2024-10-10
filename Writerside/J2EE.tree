@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="J2EE"
+                 name="JavaEE"
+                  start-page="001-Idea配置Maven.md">
+
+    <toc-element topic="001-Idea配置Maven.md"/>
+    <toc-element topic="002-Maven工程构建.md"/>
+    <toc-element topic="003-Idea连接MySQL.md"/>
+    <toc-element topic="004-MyBatis相关依赖.md"/>
+    <toc-element topic="005-logback配置.md"/>
+    <toc-element topic="006-Mapper代理开发.md"/>
+    <toc-element topic="007-创建SpringBoot.md"/>
+    <toc-element topic="008-配置文件使用.md"/>
+    <toc-element topic="010-课后作业.md"/>
+    <toc-element topic="011-JSON通信格式.md"/>
+    <toc-element topic="012-日志配置.md"/>
+    <toc-element topic="009-整合Mybatis.md"/>
+    <toc-element topic="013-Vite创建Vue3工程.md"/>
+    <toc-element topic="014-Vue基本语法.md"/>
+    <toc-element topic="015-Vue发送跨域请求.md"/>
+    <toc-element topic="016-Vue3控制和路由.md"/>
+    <toc-element topic="017-ElementPlus安装使用.md"/>
+    <toc-element topic="018-案例：果园后台管理系统.md"/>
+</instance-profile>
