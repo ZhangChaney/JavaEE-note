@@ -15,7 +15,7 @@
 
 在命令行窗口输入以下命令创建项目
 
-```sh
+```shell
 npm init vite
 # 如果提示询问y/n则输入y然后回车
 ```
@@ -46,7 +46,7 @@ npm init vite
 
 打开后先换源，在终端中输入如下命令
 
-```sh
+```shell
 npm config set registry https://registry.npmmirror.com/
 ```
 

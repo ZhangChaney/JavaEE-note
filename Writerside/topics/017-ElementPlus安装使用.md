@@ -6,13 +6,13 @@
 
 npm命令行安装
 
-```sh
+```shell
 npm install element-plus --save
 ```
 
 在main.ts文件中加入以下内容，全局引入
 
-```ts
+```typescript
 import ElementPlus from 'element-plus'
 import 'element-plus/dist/index.css'
 
@@ -24,7 +24,7 @@ app.use(ElementPlus)
 
 将**Home.vue**中的路由标签`RouterLink`修改为用ElmentPlus的按钮标签装饰，查看是否生效
 
-```vue
+```
   <el-button type="primary">
     <RouterLink to="/child-01">第一个子路由</RouterLink>
   </el-button>

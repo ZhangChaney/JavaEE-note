@@ -1,12 +1,12 @@
 # 001-Idea配置Maven
 
-## 一、解压Maven
+## 一、解压Maven {id="maven_1"}
 
 将**apache-maven-3.6.0.zip**压缩包解压到本地，尽量不要在c盘，并在同级目录下创建叫**m2**的目录。
 
 ![image-20240909183927534](./assets/image-20240909183927534.png)
 
-## 二、创建空Maven项目
+## 二、创建空Maven项目 {id="maven_2"}
 
 打开Idea，点击**New Project**，配置如下图。
 
@@ -14,7 +14,7 @@
 
 配置完成后点击Create创建项目。
 
-## 三、配置本地Maven
+## 三、配置本地Maven {id="maven_3"}
 
 左上角依次点击File --> Settings打开设置面板，如下图进行本地Maven配置。
 

@@ -106,7 +106,7 @@ public Result insertUser(User user) {
 }
 ```
 
-#### 课堂练习： 将修改和删除用户接口也修改为JSON格式返回并测试。
+#### 课堂练习： 将修改和删除用户接口也修改为JSON格式返回并测试。 {id="json_1"}
 
 ## 2. 接收JSON格式的数据
 
